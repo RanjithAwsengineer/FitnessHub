@@ -5,7 +5,7 @@ Fitness tracking
 sudo apt-get update
 
 
-git clone https://github.com/yeshwanthlm/django-on-ec2.git
+git clone https://github.com/RanjithAwsengineer/FitnessHub.git
 
 
 sudo apt install python3-pip -y
